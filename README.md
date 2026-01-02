@@ -1,5 +1,8 @@
 # Digital Attendance System with Face Recognition
 
+<img width="1909" height="867" alt="Screenshot 2026-01-02 111648" src="https://github.com/user-attachments/assets/309c4b4b-2570-4a0e-a3b9-b0a15168e2c8" />
+
+
 A modern, web-based attendance system using face recognition technology.
 
 ## Features
